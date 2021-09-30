@@ -21,6 +21,13 @@
     min-height: 72rem;
     flex-direction: row;
   }
+  
+  .desktop-banner{
+    display:block;
+  }
+  .mobile-banner{
+    display:none;
+  }
 }
 
 @media screen and (max-width: 749px) {
@@ -30,6 +37,13 @@
 
   .banner--stacked .banner__media {
     flex-direction: column;
+  }
+  
+  .desktop-banner{
+    display:none;
+  }
+  .mobile-banner{
+    display:block;
   }
 }
 
