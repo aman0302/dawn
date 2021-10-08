@@ -13,6 +13,7 @@
         },
         "163318678084222d51-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template."
           }
@@ -37,7 +38,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/BANNER_2_1.png",
-        "image_2": "shopify:\/\/shop_images\/campaign_1.jpg",
+        "image_2": "shopify:\/\/shop_images\/Anniversay_sale_banner.png",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
@@ -135,7 +136,7 @@
     "1633101225f888bf66": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/sale_banner_2.png",
+        "image": "shopify:\/\/shop_images\/Untitled_72_x_24_in_72_x_20_in_-min.png",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
@@ -150,10 +151,10 @@
       "settings": {
         "title": "Bestsellers",
         "collection": "bestseller-small",
-        "products_to_show": 4,
+        "products_to_show": 12,
         "show_view_all": true,
         "swipe_on_mobile": true,
-        "image_ratio": "portrait",
+        "image_ratio": "adapt",
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": false,
